@@ -1,5 +1,6 @@
+#Practiqué lo que he aprendido en Python sobre bucles y ramificaciones creando una representación del juego de Piedra, Papel y Tijeras.
+#Lo hice en inglés para practicar el idioma a la vez.
 import random
-
 
 def player_choice():
     choice = input('\nPress 1 for Rock\nPress 2 for Paper\nPress 3 for Scissors' + '\n: ')
